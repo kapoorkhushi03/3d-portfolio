@@ -7,25 +7,25 @@ import { MdSecurity } from "react-icons/md";
 const ServicesData = [
   {
     name: "UX research",
-    description: "Lorem ipsum dolor sit amet.",
+    description: "I know how to operate figma and create real life simple yet aesthetic designs.",
     icon: <AiFillLayout className="text-4xl" />,
     bgColor: "bg-blue-500/70",
   },
   {
-    name: "App Development",
-    description: "Lorem ipsum dolor sit.",
+    name: "Frontend Development",
+    description: "I am proficient at frontend languages like ReactJs, vite and tailwind to provide seemless frontend experience.",
     icon: <MdOutlinePhoneAndroid className="text-4xl" />,
     bgColor: "bg-lime-500/70",
   },
   {
     name: "Web App Development",
-    description: "Lorem ipsum dolor sit amet.",
+    description: "Efficiently Create Responsive designs.",
     icon: <HiMiniComputerDesktop className="text-4xl" />,
     bgColor: "bg-fuchsia-500/70",
   },
   {
-    name: "Security",
-    description: "Lorem ipsum dolor sit amet consectetur.",
+    name: "Problem Solving",
+    description: "Team leader & Collaborative Problem-Solver.",
     icon: <MdSecurity className="text-4xl" />,
     bgColor: "bg-orange-500/70",
   },

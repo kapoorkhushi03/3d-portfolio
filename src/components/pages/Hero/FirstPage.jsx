@@ -15,16 +15,16 @@ const FirstPage = () => {
             <div className="space-y-3">
               <p className="uppercase">Hello</p>
               <p className="text-4xl md:text-6xl font-bold text-black/80">
-                I'm Alex
+                I'm Khushi
               </p>
-              <p className="text-black/75 text-left">Full Stack Developer</p>
+              <p className="text-black/75 text-left">Frontend Developer</p>
               <p className="text-black/75">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo
-                exercitationem tempora in nisi quos.
+                I am a passionate student of technology, I like solving complex DSA
+                 problems , and solving real life problems using tech.
               </p>
               <a
                 className="inline-block primary-btn "
-                href="mailto:Tq6cM@example.com"
+                href="mailto:khushikapoor200313@gmail.com"
               >
                 {" "}
                 Hire me

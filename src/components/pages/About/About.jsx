@@ -9,21 +9,22 @@ const About = () => {
       {/* heading */}
       <Heading
         title="About"
-        subtitle="Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet."
+        subtitle="Tech enthusiast"
       />
 
       {/* Details section  */}
 
       <div className="mt-10 text-slate-500">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
-          quaerat ex obcaecati tenetur dolorum quasi rem! Vero consequuntur
-          perferendis architecto.
+        I'm a passionate tech enthusiast with a knack for innovative solutions.
+         As a frontend developer, I craft engaging user experiences using HTML, 
+         CSS, JavaScript, and React.js. Currently, I'm diving into the world of 
+         machine learning, eager to harness its potential for future projects.
         </p>{" "}
         <br />
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim,
-          beatae.adipisicing elit. Enim, beatae.
+        I thrive on learning new technologies and applying them creatively. My goal 
+        is to continuously improve and contribute to the ever-evolving tech landscape.
         </p>
         {/* Social Links */}
         <div className="flex space-x-4 mt-10">

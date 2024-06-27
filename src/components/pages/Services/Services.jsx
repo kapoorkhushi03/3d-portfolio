@@ -8,7 +8,7 @@ const Services = () => {
       {/* heading */}
       <Heading
         title="Services"
-        subtitle="Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet."
+        subtitle="I am available for freelance products as well. We will build together something great"
       />
 
       {/* Services Card  */}

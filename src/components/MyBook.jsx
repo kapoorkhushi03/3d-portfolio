@@ -9,23 +9,24 @@ import Services from "./pages/Services/Services";
 import About from "./pages/About/About";
 import Projects from "./pages/Projects/Projects.jsx";
 
-import ProjectImg1 from "../assets/projects/car-rental.jpg";
-import ProjectImg2 from "../assets/projects/restaurant.jpg";
+import ProjectImg1 from "../assets/projects/mdp.jpg";
+import ProjectImg2 from "../assets/projects/todo-list.jpg";
 import ProjectImg3 from "../assets/projects/ecommerce.jpg";
-import ProjectImg4 from "../assets/projects/travel-website.jpg";
+
 
 const ProjectData = [
   {
-    name: "Car Rental website",
-    description: "Complete Responsive website using React js and Tailwind CSS",
+    name: "MULTIPLE DISEASE PREDICTOR",
+    description: "diagnose diseases such as breast cancer, Parkinson’s disease, heart failure, and diabetes.",
     image: ProjectImg1,
-    previewLink: "https://car-rental-tcj.netlify.app/",
+    previewLink: "https://github.com/kapoorkhushi03/RFTechnologies-Internship"
+    
   },
   {
-    name: "Restaurant website",
-    description: "Complete Responsive website using React js and Tailwind CSS",
+    name: "todo-list",
+    description: "webapp to store your day to day tasks",
     image: ProjectImg2,
-    previewLink: "https://foodies-zone.netlify.app/",
+    previewLink: "https://github.com/kapoorkhushi03/Multiple_disease_Predictor"
   },
 ];
 const ProjectData2 = [
@@ -35,12 +36,7 @@ const ProjectData2 = [
     image: ProjectImg3,
     previewLink: "https://shopsy-tcj.netlify.app/",
   },
-  {
-    name: "Travel website",
-    description: "Complete Responsive website using React js and Tailwind CSS",
-    image: ProjectImg4,
-    previewLink: "https://travel-tcj.netlify.app/",
-  },
+  
 ];
 
 function MyBook(props) {
